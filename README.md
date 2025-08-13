@@ -6,7 +6,7 @@ This course consists of 5 compulsory lectures (1, 2, 3, 4, and 5) and one option
 
 ## How to run this course
 
-There are three possibilities for how you can learn Python with our self-guided course. **JupyterHub** and **Binder** options allow you to run tutorials in the cloud - you do not need to install anything, and no files will be created on your machine. All you need is a web browser and internet connection. However, you need to download Jupyter notebooks you worked in to ensure your work is not lost at the end of each session. The third option is to create a Python environment and run all tutorials on your machine. There is no difference in what you will learn, and we give you complete freedom to choose how you want to run tutorials.
+There are three possibilities for how you can learn Python with this self-guided course. **JupyterHub** and **Binder** options allow you to run tutorials in the cloud - you do not need to install anything, and no files will be created on your machine. All you need is a web browser and internet connection. However, you ***must remember to download Jupyter notebooks** you worked in to ensure your work is not lost at the end of each session. The third option is to create a Python environment and run all tutorials on your machine. There is no difference in what you will learn, and we give you complete freedom to choose how you want to run the tutorials.
 
 ### 1. JupyterHub (ESE students)
 
